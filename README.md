@@ -15,7 +15,7 @@ Team Member 2 - SUBASHINI L
 
 Team Member 3 - SATHIYA PRIYA E
 
-# Kings Engineering College
+# Mailam Engineering College
 
 
 # This repository contains the coding Assignments and Course Deliverables done as follows for this Project. 
